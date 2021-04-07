@@ -1,4 +1,4 @@
-# Random Food Selector 🍰 🍕 🍔 🍣 🍟
+# 🍰 🍕 🍔 🍣 🍟
 
 ## Project Idea 💡 🌟
 
