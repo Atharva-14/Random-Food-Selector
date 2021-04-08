@@ -1,5 +1,3 @@
-# 🍰 🍕 🍔 🍣 🍟
-
 ## Project Idea 💡 🌟
 
 This project consist on creating an Android App that generates random dishes from an API and if you want to make that dishes you can check the recipes in the App also...
